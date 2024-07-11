@@ -55,3 +55,5 @@ Isso irá gerar uma imagem `output.png` na pasta do projeto, exibindo a cena ren
 
 ### Autor
 - [Vitor Taranto]()
+
+![Resultado do Ray Tracing](output.png)
